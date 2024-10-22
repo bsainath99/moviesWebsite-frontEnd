@@ -1,5 +1,5 @@
 
-#Movie Website Front End Application 
+# Movie Website Front End Application 
 For the **backend** application implementation, I've done a separate project with name **moviesWebsite-backEnd**  with github link: https://github.com/bsainath99/moviesWebsite-backEnd.git
 
 
